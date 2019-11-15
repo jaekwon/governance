@@ -3,6 +3,7 @@
 The following commentary relates to [Referendum 001](ref-001.md).
 
 Document Dependencies:
+
 "Bootstrapping Governance": Bootstrapping Governance the Conservative Way, https://docs.google.com/document/d/1hpdRliGwovpFi5maqtqFXOwsFmQyFci_YfAyJ4ZkP-g/edit
 
 Checks and Balances: Lane’s paper on checks and balances: https://docs.google.com/document/d/1vK8ndDPpKyf1z6wzBEQ81h_-4U8H1jL3OnitzfyF_2k/edit
